@@ -1,0 +1,16 @@
+This prototype model is simple in construction, made out of household materials. For demonstrative purposes the model tracks any light 
+source using a photoresistor setup. This is a single axis tracker but a dual axis one is very much possible. The electrical system
+uses a microcontroller board connected to a relay module to control two small DC motors. A winch is attached to each motor.
+Thread ( acts as the cable ) is wound around the winch and attached to the 'panel'. When the motor is on it pulls the thread and thus
+the panel. The opposite motor at that point will be off. The panel rests at a point close to its true center of gravity, this point
+was chosen roughly. Nonetheless, the panel is balanced. 
+
+It was possible for the small motor and the thin thread to move the relatively large panel, and at a quick rate; despite the motor's 
+limited torque. As the panel rests on its center of weight, its inertia is much lower and therefore it can be moved more easily. 
+A traditional tracking system to move the same panel with the same motor would not have been possible unless with a gear box but even then, 
+it would have been much slower. Large arrays of panels can therefore have relatively small, low power motor winch systems capable of moving
+them. Wind from the ceiling fan wasn't a major obstacle to the model's functioning either.
+
+The model could not be tested under the sun as the winch of this model was very troublesome. As can be expected from one made out of
+bottle caps, reinforced with blu-tack and running thin thread. Yet as can be seen in the videos, the model works well. A larger
+system can too.
