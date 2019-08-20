@@ -1,0 +1,7 @@
+Copyright notice
+Material in documentation subject to copyright in this folder/ along with this file is licensed under a Creative Commons Attribution 4.0 International Public License.
+Copyright notice in the files is in the file name and represented with '[CC BY]'
+
+Hardware license notice
+Documentation in this folder/ along with this file is licensed under the TAPR Open Hardware
+License (www.tapr.org/OHL)
